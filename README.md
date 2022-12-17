@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @E11i00tt
 - 👀 I’m interested in CyberSecurity and BugBounty
 - 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on BugHunter
+- 💞️ I’m looking to collaborate on Ethical Hacking
 - 📫 How to reach me Twitter 😎😎😎https://twitter.com/fsocietyxz 🤞🤞🤞
 
 <!---
